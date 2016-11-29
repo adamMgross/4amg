@@ -18,3 +18,10 @@ def parse(s):
 for r in l:
     y, t = parse(r)
     print '{} -> {}'.format((y, t), len(t) * int(y))
+
+asdjklaskd
+'kljakdl;a'
+sd';lkjhgaksjld;'
+'al;skjhkl;'
+asd'l;kjhgjkal;
+s'd';lkj

@@ -34,3 +34,26 @@ try:
         print flatten(res)
 except:
     print 'must provide number'
+
+huiauosdkjhgjkjhgfhj
+';lkjlhgfhjkl;';l;k;jhgfjkl;'
+';lkjlhgfhjkl;'
+;lk;jhgfhjkl;'
+';lkjhghjkl;'
+'
+;lkjhghjkl;'
+';lkjhJKAL;'S
+;alkjshgfgHAJKL;S'
+;lk;jhgfhjkl;'
+';lkjhghjkl;'
+'
+;lkjhghjkl;'
+';lkjhJKAL;'S
+;alkjshgfgHAJKL;S'
+;lk;jhgfhjkl;'
+';lkjhghjkl;'
+'
+;lkjhghjkl;'
+';lkjhJKAL;'S
+;alkjshgfgHAJKL;S'
+
